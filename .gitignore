@@ -1,7 +1,8 @@
-# Ignore Data
+# Ignore Data and images that will be used in the report
 data/
 data/raw/
 data/processed/
+reports/
 
 # Ignore Environment
 .venv/
