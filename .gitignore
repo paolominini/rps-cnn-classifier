@@ -12,3 +12,6 @@ reports/
 __pycache__/
 .ipynb_checkpoints/
 *.DS_Store
+
+# Ignore tuning models
+my_dir/
