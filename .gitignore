@@ -13,5 +13,9 @@ __pycache__/
 .ipynb_checkpoints/
 *.DS_Store
 
+# Models
+models/
+*.keras
+
 # Ignore tuning models
 my_dir/
